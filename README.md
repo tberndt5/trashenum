@@ -1,2 +1,2 @@
 # trashenum
-A trashy enumeration script that will try to enumerate common ports
+A trashy bash script that will try to enumerate common ports.
