@@ -1,7 +1,11 @@
+import socket
 import os
+import system
 
 def main():
-    print("trash")
+	print("TrashEnum")
+	print("Running nmap scan...")
+	#os.system('nmap ')
 
 if __name__ == "__main__":
-    main()
+	main()
